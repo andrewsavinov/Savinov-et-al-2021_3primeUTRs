@@ -10,4 +10,6 @@ This code was written by Andrew Savinov.
 
 Last updated: July 30, 2021.
 
-Please see the corresponding figshare repository for the associated Source Data: 10.6084/m9.figshare.16664143.
+Please see the corresponding figshare repository for the associated Source Data: 
+URL: https://figshare.com/articles/dataset/Source_Data_for_Savinov_et_al_2021_3_UTRs/16664143
+doi: 10.6084/m9.figshare.16664143
